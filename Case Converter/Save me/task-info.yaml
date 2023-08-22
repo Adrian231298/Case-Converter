@@ -1,0 +1,32 @@
+type: edu
+files:
+- name: src/index.html
+  visible: true
+  text: |
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+
+    </body>
+    </html>
+  learner_created: false
+- name: test/test.js
+  visible: false
+  learner_created: false
+- name: src/main.js
+  visible: true
+  learner_created: true
+- name: src/downloads/text.txt.crdownload
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/projects/193/stages/964/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: "Sun, 02 Jul 2023 11:58:23 UTC"
+record: -1
